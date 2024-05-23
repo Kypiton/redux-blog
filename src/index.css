@@ -129,6 +129,7 @@ textarea {
   border: none;
   color: #000;
   font-size: 1rem;
+  cursor: pointer;
 }
 
 .saveBtn {
